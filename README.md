@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luca Codorean
 =====================================================================================================================================
 
-Currently, I'm a 2nd year student in the TUC-N, Computer Engineering Department. I'm interested in learning and developing better back end using different frameworks. I've been a volunteer within the Scouts of Romania since 2014.
+Currently, I'm a 3rd year student in the TUC-N, Computer Engineering Department. I'm interested in learning and developing better back end using different frameworks. I've been a volunteer within the Scouts of Romania since 2014.
 
 * 🌍  I'm based in Cluj-Napoca, Romania
 * ✉️  You can contact me by using the LinkedIn reference
